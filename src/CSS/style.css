@@ -1,0 +1,88 @@
+@import url('https://fonts.googleapis.com/css2?family=Inter:wght@200;300;400;500&display=swap');
+
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: 'inter', sans-serif;
+}
+
+.background {
+    background: linear-gradient(to bottom, #FFE7A5, #FAAA82, #E07082, #A24892, #203D98);
+    padding: 130px 0;
+}
+
+h1 {
+    color: #666666af;
+    margin-left: 6px;
+}
+
+.all-color {
+    width: 280px;
+    margin: 80px auto 0 ;
+        
+}
+
+.colors {
+    margin-top: 40px;
+}
+
+.color {
+    padding: 20px 0;
+}
+
+.color p {
+    margin-left: 20px;
+}
+
+#color1 {
+    background-color: #FFE7A5;
+    padding-top: 150px;
+    border-radius: 10px 10px 0 0 ;
+    color: #666;
+}
+
+#color2 {
+    background-color: #FAAA82;
+    color: #666666;
+}
+
+#color3 {
+    background-color: #E07082;
+    color: #fff;
+}
+
+#color4 {
+    background-color: #A24892;
+    color: #fff;
+}
+
+#color5 {
+    background-color: #203D98;
+    padding-bottom: 150px;
+    border-radius: 0 0 10px 10px;
+    color: #fff;
+}
+
+.netflix {
+    margin-top: 800px;
+    
+}
+
+.color-text {
+    display: flex;
+    gap: 10rem;
+    margin-left: 55rem;
+    margin-bottom: 10rem;
+}
+
+#netflix-color1 {
+    position: relative;
+}
+
+#netflix-color1 {
+    content: " ";
+    position: absolute;
+    color: #E50914;
+    left: 0;
+}
